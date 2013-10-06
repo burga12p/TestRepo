@@ -16,6 +16,6 @@ public class GitHubTest {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("This is to check github can connect PC to Lab");
+        System.out.println("This is to chennect PC to Lab");
     }
 }
